@@ -1,0 +1,32 @@
+{
+  "population": 1000000,
+  "joint_prevalence": {
+    "none": 0.386248,
+    "hypertension": 0.165208,
+    "hypertension_diabetes": 0.120265,
+    "hypertension_diabetes_cardio": 0.029734,
+    "diabetes_cardio": 0.049873,
+    "diabetes_hypertension": 0.029202,
+    "hypertension_cardio": 0.079901,
+    "cardio": 0.042699,
+    "cardio_diabetes": 0.007406,
+    "cardio_hypertension": 0.018311,
+    "diabetes": 0.067939,
+    "cardio_diabetes_hypertension": 0.003214
+  },
+  "average_costs": {
+    "none": 0,
+    "hypertension": 2000,
+    "hypertension_diabetes": 14000,
+    "hypertension_diabetes_cardio": 44000,
+    "diabetes_cardio": 42000,
+    "diabetes_hypertension": 14000,
+    "hypertension_cardio": 32000,
+    "cardio": 30000,
+    "cardio_diabetes": 42000,
+    "cardio_hypertension": 32000,
+    "diabetes": 12000,
+    "cardio_diabetes_hypertension": 44000
+  },
+  "total_cost": 11517406000
+}
